@@ -1,5 +1,3 @@
-import { UrlCreationOptions } from "@angular/router";
-
 export interface Product {
     id: number;
     name: string;
